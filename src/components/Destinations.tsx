@@ -9,7 +9,7 @@ export default function Destinations() {
       description:
         "Découvrez l'élégance de la Belle Époque lors de l'Exposition Universelle. Admirez l'inauguration de la Tour Eiffel et plongez dans le raffinement parisien du XIXe siècle.",
       highlight: 'Belle Époque',
-      image: '/Capture_d\'écran_2026-02-27_à_10.27.11.png',
+      image: '/paris.jpg',
     },
     {
       title: 'Le Crétacé',
@@ -17,7 +17,7 @@ export default function Destinations() {
       description:
         "Partez pour l'aventure ultime dans un monde sauvage et préhistorique. Observez les dinosaures dans leur habitat naturel lors d'un safari temporel inoubliable.",
       highlight: 'Aventure Sauvage',
-      image: '/Capture_d\'écran_2026-02-27_à_10.27.45.png',
+      image: '/cretace.jpg',
     },
     {
       title: 'Florence',
@@ -25,7 +25,7 @@ export default function Destinations() {
       description:
         "Immergez-vous dans l'apogée de la Renaissance italienne. Rencontrez Michel-Ange et les grands maîtres dans l'atmosphère artistique unique de Florence.",
       highlight: 'Renaissance',
-      image: '/Capture_d\'écran_2026-02-27_à_10.28.18.png',
+      image: '/florence.jpg',
     },
   ];
 
