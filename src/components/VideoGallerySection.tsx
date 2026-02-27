@@ -112,7 +112,7 @@ export function VideoGallerySection() {
     >
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         {/* Section Header */}
-        <div data-animate className="mx-auto max-w-3xl text-center opacity-0">
+        <div data-animate className="mx-auto max-w-3xl text-center">
           <span className="font-mono text-xs tracking-widest uppercase text-primary">
             Gallery
           </span>
