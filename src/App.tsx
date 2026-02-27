@@ -5,6 +5,7 @@ import ConceptSection from './components/ConceptSection';
 import ReservationSection from './components/ReservationSection';
 import ChatbotWidget from './components/ChatbotWidget';
 import Footer from './components/Footer';
+import VideoGallerySection from './components/VideoGallerySection';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Navbar />
       <Hero />
       <Destinations />
+      <VideoGallerySection />
       <ConceptSection />
       <ReservationSection />
       <ChatbotWidget />
